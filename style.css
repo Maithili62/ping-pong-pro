@@ -1,0 +1,30 @@
+body
+{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.heading h1
+{
+    display: inline;
+    font-weight: bolder;
+    font-size: 45px;
+    color: black;
+}
+
+.heading button
+{
+    float: right;
+    border: 3px black solid;
+    font-size: 20px;
+}
+
+#status , #start
+{
+    font-size: 25px;
+}
+
+.heading
+{
+    width: 100%;
+}
